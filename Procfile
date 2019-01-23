@@ -1,0 +1,1 @@
+web: java -jar target/cirrus-solar-sample-app-1.0.jar
